@@ -1,6 +1,6 @@
 ## "The Legend of Zelda: Ocarina of Time"
 
-Step into the shoes of Link, the Hero of Time, in this legendary action-adventure game. "The Legend of Zelda: Ocarina of Time" takes players on an epic journey through the land of Hyrule, where you must thwart the plans of the malevolent Ganondorf by wielding the Master Sword and manipulating time itself.
+Step into the shoes of Zelda, the Hero of Time, in this legendary action-adventure game. "The Legend of Zelda: Ocarina of Time" takes players on an epic journey through the land of Hyrule, where you must thwart the plans of the malevolent Ganondorf by wielding the Master Sword and manipulating time itself.
 
 ### Key Features
 
