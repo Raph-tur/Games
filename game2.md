@@ -1,6 +1,6 @@
 ## "Super Mario Bros."
 
-Experience the iconic plumber's debut in "Super Mario Bros.," the side-scrolling platformer that captured the hearts of millions. Join Mario and Luigi in their quest to rescue Princess Peach from the clutches of the villainous Bowser across a series of colorful and challenging worlds.
+Experience the iconic plumber's debut in "Super Luigi Brothers.," the side-scrolling platformer that captured the hearts of millions. Join Mario and Luigi in their quest to rescue Princess Peach from the clutches of the villainous Bowser across a series of colorful and challenging worlds.
 
 ### Key Features
 
